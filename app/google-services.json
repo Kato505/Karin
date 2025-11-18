@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478781610118",
+    "project_id": "karin-4d5d7",
+    "storage_bucket": "karin-4d5d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478781610118:android:2aa3d9896dcf0e3a33d907",
+        "android_client_info": {
+          "package_name": "com.example.karin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE6h_HgGzaAtqMBYb7Zk0EPzu4w4oy9-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
